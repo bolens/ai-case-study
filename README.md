@@ -153,9 +153,9 @@ Overall, these technologies are appropriate for the implementation of carbon cre
 
 ## Additional Sources
 
-Forbes: [Artificial Intelligence: Accelerating Clean Energy Transformation](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/07/artificial-intelligence-accelerating-clean-energy-transformation/)
-Reuters: [How AI can help power energy systems in an age of renewables](https://www.reuters.com/sustainability/climate-energy/how-ai-can-help-power-energy-systems-an-age-renewables-2023-12-18/)
-Wisconsin Public Radio: [Utilities weigh power demand from AI amid clean energy transition](https://www.wpr.org/news/utilities-weigh-power-demand-from-ai-amid-clean-energy-transition)
+- Forbes: [Artificial Intelligence: Accelerating Clean Energy Transformation](https://www.forbes.com/sites/forbesbusinesscouncil/2023/11/07/artificial-intelligence-accelerating-clean-energy-transformation/)
+- Reuters: [How AI can help power energy systems in an age of renewables](https://www.reuters.com/sustainability/climate-energy/how-ai-can-help-power-energy-systems-an-age-renewables-2023-12-18/)
+- Wisconsin Public Radio: [Utilities weigh power demand from AI amid clean energy transition](https://www.wpr.org/news/utilities-weigh-power-demand-from-ai-amid-clean-energy-transition)
 
 [^crunchbase]: Crunchbase: [Octopus Energy Financials](https://www.crunchbase.com/organization/octopus-energy/company_financials)
 [^550]: Octopus Energy Press Release: [Octopus Energy Group completes fundraise with existing investors, totalling US$550m](https://octopus.energy/press/octopus-energy-group-completes-fundraise-with-existing-investors-totalling-us550m/)
